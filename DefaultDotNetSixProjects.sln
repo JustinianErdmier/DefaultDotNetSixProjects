@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication-WithReact.js
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService", "WorkerService\WorkerService.csproj", "{AEDE0E5E-10C0-4AF9-933E-9FF60CD24D7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{E34E1AD6-3568-4119-B635-3697507FD0BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{AEDE0E5E-10C0-4AF9-933E-9FF60CD24D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEDE0E5E-10C0-4AF9-933E-9FF60CD24D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEDE0E5E-10C0-4AF9-933E-9FF60CD24D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E34E1AD6-3568-4119-B635-3697507FD0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34E1AD6-3568-4119-B635-3697507FD0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34E1AD6-3568-4119-B635-3697507FD0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34E1AD6-3568-4119-B635-3697507FD0BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
